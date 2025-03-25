@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm @ckmardiah 👋
 - 🔭 I’m currently working on my dream.
 - 🌱 I’m currently learning Software Engineering.
 - 👯 I’m looking to collaborate on any project as beginner.
