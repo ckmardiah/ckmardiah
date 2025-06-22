@@ -1,4 +1,3 @@
-<img src="https://github.com/YOUR_USERNAME/ckmardiah/blob/main/Beige Vintage Traveler Twitter Header.png" alt="Header" width="100%" />
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mardiah
 ===============================================================================================================================
 
