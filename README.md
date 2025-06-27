@@ -11,8 +11,10 @@ I am part time student of Software Engineering while working full time as a teac
 * 🌍  I'm based in Johor, Malaysia
 * ✉️  You can contact me at [sp-chekumardiah.ckm@graduate.utm.my](mailto:sp-chekumardiah.ckm@graduate.utm.my)
 * 🧠  I'm learning Technology and Information System, Probability and Statistical Data Analysis and System Analysis and Design
+* 📜  I am graduate from Diploma in Science and Bachelor of Science (Hons) Biology .
 * 🤝  I'm open to collaborating on any project as beginner to gain experience.
 * ⚡  I am cheerful, loud and hardworking person. I am fast learner also.
+
 
 <a href="https://www.github.com/ckmardiah" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ckmardiah?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
