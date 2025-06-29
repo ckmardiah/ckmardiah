@@ -10,12 +10,31 @@ I am part time student of Software Engineering while working full time as a teac
 
 * 🌍  I'm based in Johor, Malaysia
 * ✉️  You can contact me at [sp-chekumardiah.ckm@graduate.utm.my](mailto:sp-chekumardiah.ckm@graduate.utm.my)
-* 🧠  I'm learning Technology and Information System, Probability and Statistical Data Analysis and System Analysis and Design.
-* 📜  I am graduate from Diploma in Science and Bachelor of Science (Hons) Biology.
-* 🏆  Vice Chancellor Award for Bachelor of Science (Hons) Biology 
+* 🧠  I'm learning Technology and Information System, Probability and Statistical Data Analysis and System Analysis and Design. 
 * 🤝  I'm open to collaborating on any project as beginner to gain experience.
 * ⚡  I am cheerful, loud and hardworking person. I am fast learner also.
 
+
+### Work Experience
+* Teacher (October 2023 until Present)
+* STEM Programme Specialist (October 2022 until September 2023)
+* Online Science Tutor (September 2021 until September 2022)
+
+
+### 👩‍🎓Education
+* Bachelor of Science (Hons) Biology: UiTM Kuala Pilah (2021)
+* Diploma In Science: UiTM Jengka Pahang (2018) 
+
+ 
+### 📜 Certificate
+* Food Handler Training Course (2024)
+* Basic Occupational First Aid (2024) 
+
+
+### 🏆 Award
+* Commitment to Continuous Learning (2025)
+* Vice Chancellor Award for Bachelor of Science (Hons) Biology (2021)
+  
 
 <a href="https://www.github.com/ckmardiah" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ckmardiah?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
