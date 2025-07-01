@@ -22,11 +22,13 @@ I am part time student of Software Engineering while working full time as a teac
 
 
 ### 👩‍🎓Education
+* Bachelor of Computer Science (Software Engineering) with Honours (Present: Year 1)
 * Bachelor of Science (Hons) Biology: UiTM Kuala Pilah (2021)
 * Diploma In Science: UiTM Jengka Pahang (2018) 
 
  
 ### 📜 Certificate
+* Fundamental of Cloud Computing (2025)
 * Food Handler Training Course (2024)
 * Basic Occupational First Aid (2024) 
 
